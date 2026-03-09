@@ -136,24 +136,24 @@ voice_ai_evaluation/
 ## 📷 Screenshots
 
 ### 1. Front UI of the Streamlit Page
-*(Save your image as `images/front_ui.png`)*
+
 ![Front UI](images\1.png)
 
 ### 2. Single Evaluation
-*(Save your image as `images/single_evaluation.png`)*
+
 ![Single Evaluation](images/2.png)
 
 ### 3. Speak Mode
-*(Save your image as `images/speak_mode.png`)*
+
 ![Speak Mode](images/3.png)
 
 ### 4. Batch Evaluation (Summary)
-*(Save your image as `images/batch_evaluation_summary.png`)*
-![Batch Evaluation Summary](4.png)
+
+![Batch Evaluation Summary](images/4.png)
 
 ### 5. Batch Evaluation (Charts)
-*(Save your image as `images/batch_evaluation_charts.png`)*
-![Batch Evaluation Charts](6.png)
+
+![Batch Evaluation Charts](images/6.png)
 
 ---
 
