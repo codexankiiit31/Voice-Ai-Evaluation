@@ -1,0 +1,32 @@
+# Backend
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
+
+# Frontend
+streamlit>=1.35.0
+plotly>=5.20.0
+audio-recorder-streamlit>=0.0.8
+
+# Speech recognition
+openai-whisper>=20231117
+imageio-ffmpeg>=0.4.9
+
+# LangChain + Ollama
+langchain>=0.2.0
+langchain-ollama>=0.1.0
+langchain-core>=0.2.0
+
+# Metrics
+jiwer>=3.0.3
+sentence-transformers>=2.6.1
+
+# Utilities
+soundfile>=0.12.1
+numpy>=1.26.0
+requests>=2.31.0
+
+# Testing
+pytest>=8.0.0
+
+audio-recorder-streamlit
